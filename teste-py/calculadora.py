@@ -1,13 +1,13 @@
-def add(a, b):
+def adicao(a, b):
     return a + b
 
-def subtract(a, b):
+def subtracao(a, b):
     return a - b
 
-def multiply(a, b):
+def multiplicacao(a, b):
     return a * b
 
-def divide(a, b):
+def divisao(a, b):
     if b == 0:
         raise ValueError("Cannot divide by zero")
     return a / b
