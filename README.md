@@ -1,3 +1,8 @@
+## Equipe:
+- Aline Beatriz - 01548118
+- Aline Kessy - 01548799
+- Pedro Felipe - 01510539
+
 # Gerenciador de Usuários e Autenticação
 
 Este repositório contém a implementação e os testes de um sistema básico de gerenciamento de usuários, incluindo funcionalidades de cadastro e login. O sistema permite o registro de usuários com validação de email e senha, e autenticação com login.
